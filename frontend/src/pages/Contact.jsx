@@ -14,7 +14,7 @@ const Contact = () => {
         <div className='flex flex-col justify-center items-start gap-6'>
           <p className=' font-semibold text-lg text-gray-600'>OUR OFFICE</p>
           <p className=' text-gray-500'>Survey No. 140 - 141/1 <br /> Indian Institute of Information Technology, Nagpur (IIITN)</p>
-          <p className=' text-gray-500'>Tel: (91) 8468938745 <br /> Email: vasuparashar18@gmail.com</p>
+          <p className=' text-gray-500'>Tel: (91) 9548938557 <br /> Email: ashurajput7017@gmail.com</p>
           <p className=' font-semibold text-lg text-gray-600'>CAREERS AT PRESCRIPTO</p>
           <p className=' text-gray-500'>Learn more about our teams and job openings.</p>
           <button className='border border-black px-8 py-4 text-sm hover:bg-black hover:text-white transition-all duration-500'>Explore Jobs</button>
